@@ -1,0 +1,94 @@
+Objective:
+Create a clean, modern, and fully responsive website for Hideout Cafe, a casual eatery offering a mix of Indian and Asian fast foods, beverages, and quick bites.
+
+🔵 Website Title:
+Hideout Café – Escape to Flavour
+
+🌐 Pages / Sections:
+1. Home (Landing Page)
+Banner Image (from PDF or placeholder)
+
+Tagline: “Escape to Flavour!”
+
+CTA Buttons: "Order Now" and "View Menu"
+
+Location: “Near Kalam Cottage I - EZ STAYS, Knowledge Park III, Greater Noida, U.P (201310)”
+
+Contact: “+91 97170 19978 / +91 79798 55427”
+
+2. About Us
+Brief story of Hideout Cafe (You can include something like: “A student-friendly cafe serving quick and tasty meals since [Year]...”)
+
+Chef Highlight: "Run by Chef Thapa"
+
+Cafe ambiance image or color section with quote
+
+3. Menu
+Categorized layout:
+
+Starters
+
+Main Course
+
+Beverages & Shakes
+
+Rolls & Quick Breads
+
+Momos
+
+Show dish name + price (use PDF data)
+
+Use tabs or accordion for category switching (JS)
+
+4. Gallery
+A grid layout of food items (use placeholder images or real ones later)
+
+Hover effects for dish names or prices
+
+5. Contact / Location
+Embedded Google Maps (optional, or just use static map image)
+
+Phone numbers clickable for mobile
+
+Feedback/contact form with Name, Email, Message
+
+6. Footer
+Social Media Icons (placeholder if not available)
+
+Contact details
+
+Opening hours (optional)
+
+🎨 Design Guidelines:
+Color Palette:
+
+Earthy tones (brown, beige) OR
+
+Use colors from the banner (black, red, subtle green if visible)
+
+Fonts: Use clean Google Fonts (like Poppins or Roboto)
+
+Layout:
+
+Responsive: Mobile-first design
+
+Grid/Flexbox for layout
+
+Sticky header with navigation
+
+Animations/Effects:
+
+Smooth scroll
+
+Button hover effects
+
+Reveal on scroll for sections
+
+🧠 JavaScript Features:
+Responsive navbar toggle (hamburger menu)
+
+Tab or accordion switch for menu sections
+
+Scroll-to-top button
+
+Optional: Simple order form validation
